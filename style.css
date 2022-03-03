@@ -94,10 +94,10 @@ body{
 .food-items{
     
 }
-#italian,#chines,#french,#georgian,#turkish{
+#italian,#chinese,#french,#georgian,#turkish{
     margin-top: 40px;
 }
-#italian #item-card, #georgian #item-card, #chines #tem-card{
+#italian #item-card, #georgian #item-card, #chinese #tem-card{
     background-color: rgb(218,253,188);
 }
 #turkish #item-card, #french #item-card{
